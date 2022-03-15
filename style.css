@@ -531,7 +531,7 @@ footer .social a {
     transition: 0.3s;
 }
 
-footer social a:hover {
+footer .social a:hover {
     transform: translateY(-15px);
 }
 
